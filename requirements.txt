@@ -1,0 +1,9 @@
+Django>=4.2
+djangorestframework
+chromadb
+sentence-transformers
+PyPDF2
+pdfplumber
+python-docx
+python-dotenv
+openai
