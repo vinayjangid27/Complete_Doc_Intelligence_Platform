@@ -1,0 +1,9 @@
+Meeting Notes:
+
+- Discussed project timeline.
+- Reviewed document processing module.
+- Set deadlines for each phase.
+
+Next steps:
+- Finalize front-end.
+- Integrate RAG pipeline.
